@@ -1,0 +1,6 @@
+{
+  "name": "Dental Care for a Healthier",
+  "description": "A luxury dental clinic application providing exceptional dental care for a healthier, more confident smile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
